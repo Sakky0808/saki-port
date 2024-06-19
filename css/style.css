@@ -390,4 +390,12 @@ footer p{
     font-size: 1rem;
 }
 
+.main-nav li{
+    margin: 0% auto;
+}
+
+nav {
+    width: 100%;
+}
+
 }
